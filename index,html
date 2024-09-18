@@ -1,1 +1,36 @@
+Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
+<html lang="pt-BR">
 
+<head>
+    <title>moranguinhoflix</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sevillana&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>moranguinhoflix</header>
+    <section>
+        <div class="titulo-video">
+            <h1>Moranguinho e suas aventuras!!</h1>
+           <p>#Amomoranguinho</p>
+        </div>
+
+        </div>
+        <iframe width="700" height="315" src="https://www.youtube.com/embed/3LLQ3iBzEo0"
+            title="Moranguinho 🍓 A nova manicure! ​​🍓 Desenhos Animado" frameborder="600"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+    </section>
+        <section class="categoria">
+            <div class= "categoria-video">
+   <a href="https://www.youtube.com/watch?v=ah_3uKxdOjM">
+       <img src="https://img.youtube.com/vi/ah_3uKxdOjM/maxresdefault.jpg"/>
+    </a>
+    </div>
+    </section>"https://img.youtube.com/vi/https://youtu.be/ah_3uKxdOjM?si=pzHjWY6nS0FIOuXD/mascresdefault.jpg"/>
+</body>
+</html>
